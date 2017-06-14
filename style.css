@@ -1,0 +1,34 @@
+header, nav{
+	text-align: center;
+	border: 1px solid black;
+}
+body {
+	width: 960px;
+}
+section {
+	width: 495px;
+	text-align: center;
+	border: 1px solid black;
+	float: left;
+}
+article {
+	text-align: center;
+	border: 1px solid black;
+	margin: 10px;
+}
+#headers, #paragraphs{
+	text-align: center;
+	border: 1px solid black;
+	margin: 10px;
+}
+aside {
+	width: 450px;
+	text-align: center;
+	margin-left: 10px;
+	float: right;
+}
+footer {
+	text-align: center;
+	clear: both;
+	border: 1px solid black;
+}
