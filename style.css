@@ -4,12 +4,15 @@ header, nav{
 }
 body {
 	width: 960px;
+	font-size: 18px;
+	font-family: arial;
 }
 section {
 	width: 495px;
 	text-align: center;
 	border: 1px solid black;
 	float: left;
+	margin-bottom: 10px;
 }
 article {
 	text-align: center;
@@ -25,7 +28,7 @@ aside {
 	width: 450px;
 	text-align: center;
 	margin-left: 10px;
-	float: right;
+	float: left;
 }
 footer {
 	text-align: center;
